@@ -1,0 +1,23 @@
+/* Estilos para todos los elementos impares */
+.p-impar {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* Estilos específicos para el segundo elemento */
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Estilo específico para el tercer elemento */
+.p-tercero {
+    font-size: 24px;
+}
+
+/* Estilos específicos para el cuarto elemento */
+#cuarto {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
